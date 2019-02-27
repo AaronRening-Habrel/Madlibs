@@ -1,6 +1,3 @@
-# Madlibs
-
-
 <!DOCTYPE html>
 <html>
 
